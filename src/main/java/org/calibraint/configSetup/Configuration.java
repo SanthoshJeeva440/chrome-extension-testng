@@ -11,8 +11,6 @@ import org.aeonbits.owner.Config;
 
 public interface Configuration extends Config {
 
-    String browser();
-
     String username();
 
     String build();
