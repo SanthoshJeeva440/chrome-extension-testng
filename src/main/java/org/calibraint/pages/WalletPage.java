@@ -7,4 +7,8 @@ public class WalletPage extends SeleniumUtils {
     public static void createNewWallet(){
         BasePojo.initElements();
     }
+
+    public static void importWalletScreen(){
+
+    }
 }
